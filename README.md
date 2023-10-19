@@ -1,46 +1,54 @@
-<center>
+<!-- TOP BANNER TO BE ADDED -->
+<div>
+
+</div>
+
+<!-- General informations -->
+<div>
+<ul align="center">
 
 ### Hi 👋, I'm Matteo
 ###### 25 - Italy 🇮🇹
-</center>
+</ul>
+</div>
 
 ##
 
-
+<!-- Other infos -->
+<div>
 
 - 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
 - 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
 - 🔧 I'm working on a ***Search Engine*** class project
-
+</div>
 
 
 ##
 <br>
 
-<center>
+<!-- Personal GitHub statistics -->
+<div>
+<ul align="center">
 
 ***My stats***
-</center>
+</ul>
 
-<p align="center", href="https://github.com/anuraghazra/github-readme-stats">
-<img height=130,
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBy&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5"
->
-<img height=130,
-src = "https://github-readme-stats.vercel.app/api?username=PatatoBy&show_icons=true&theme=dark"
->
-</img>
-</p>
+<ul align="center", href="https://github.com/anuraghazra/github-readme-stats">
+<img height=130, src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBy&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5">
+<img height=130, src = "https://github-readme-stats.vercel.app/api?username=PatatoBy&show_icons=true&theme=dark">
+</ul>
+</div>
 
 ##
-<br>
 
-<center>
+<!-- Code and Tools -->
+<div>
+<ul align="center">
 
 ***What i have learnt 'till now...***  
-</center>
+</ul>
 
-<p align="center">
+<ul align="center">
 <img src="./icons/C.svg" width="45">
 <img src="./icons/CPP.svg" width="45">
 <img src="./icons/Python-Dark.svg" width="45">
@@ -63,5 +71,25 @@ src = "https://github-readme-stats.vercel.app/api?username=PatatoBy&show_icons=t
 <img src="./icons/JavaScript.svg" width="45">
 <img src="./icons/PHP-Dark.svg" width="45">
 <img src="./icons/VSCode-Dark.svg" width="45">
-</p>
+</ul>
 
+</div>
+
+##
+
+<!-- MY SOCIAL NETWORKS -->
+<div>
+<ul align="center">
+
+***You can find me there***
+</ul>
+<ul align="center">
+<img href="" src="./icons/LinkedIn.svg" width="35">
+<img href="" src="./icons/Instagram.svg" width="35">
+<img href="" src="./icons/Discord.svg" width="35">
+</ul>
+</div>
+
+<!-- BOTTOM BANNER TO BE ADDED -->
+<div>
+</div>
