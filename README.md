@@ -8,8 +8,6 @@
 <ul align="center">
 
 # Hi 👋, I'm Matteo
-<p style="font-size:2em;"> <b>Hi 👋, I'm Matteo </b> </p>
-
 ### 25 - Italy 🇮🇹
 
 </ul>
