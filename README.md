@@ -1,6 +1,7 @@
 <!-- TOP BANNER TO BE ADDED -->
 <div>
-<img align="center", src="./banners/HDivider.svg">
+<img align="center", src="./banners/HDivider.svg"
+style="margin: -100px 0px -90px 0px">
 </div>
 
 <!-- General informations -->
