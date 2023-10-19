@@ -1,35 +1,67 @@
-### Hi there 👋, i am Matteo
+<center>
 
-<!--
-**PatatoBy/PatatoBy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋, I'm Matteo
+###### 25 - Italy 🇮🇹
+</center>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-**Languages and Rools:**  
-<p align = "center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
+- 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
+- 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
+- 🔧 I'm working on a ***Search Engine*** class project
+
+
+
+##
 <br>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphana/graphana.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+<center>
+
+***My stats***
+</center>
+
+<p align="center", href="https://github.com/anuraghazra/github-readme-stats">
+<img height=90,
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBy&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5"
+>
+<img height=90,
+src = "https://github-readme-stats.vercel.app/api?username=PatatoBy&show_icons=true&theme=dark"
+>
+</img>
+</p>
+
+##
+<br>
+
+<center>
+
+***What i have learnt 'till now...***  
+</center>
+
+<p align="center">
+<img src="./icons/C.svg" width="35">
+<img src="./icons/CPP.svg" width="35">
+<img src="./icons/Python-Dark.svg" width="35">
+<img src="./icons/TensorFlow-Dark.svg" width="35">
+<img src="./icons/PyTorch-Dark.svg" width="35">
+<img src="./icons/Java-Dark.svg" width="35">
+<img src="./icons/GraphQL-Dark.svg" width="35">
+<img src="./icons/Git.svg" width="35">
+<img src="./icons/Github-Dark.svg" width="35">
+<img src="./icons/Kubernetes.svg" width="35">
+<img src="./icons/OpenStack-Dark.svg" width="35">
+<img src="./icons/RabbitMQ-Dark.svg" width="35">
+<img src="./icons/Docker.svg" width="35">
+<img src="./icons/MongoDB.svg" width="35">
+<img src="./icons/Bash-Dark.svg" width="35">
+<img src="./icons/MySQL-Dark.svg" width="35">
+<img src="./icons/LaTeX-Dark.svg" width="35">
+<img src="./icons/HTML.svg" width="35">
+<img src="./icons/CSS.svg" width="35">
+<img src="./icons/JavaScript.svg" width="35">
+<img src="./icons/PHP-Dark.svg" width="35">
+<img src="./icons/VSCode-Dark.svg" width="35">
 </p>
 
