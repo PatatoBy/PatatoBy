@@ -52,20 +52,21 @@ style="margin: -100px 0px -90px 0px">
 </ul>
 
 <ul align="center">
-<img src="./icons/C.svg" width="45">
-<img src="./icons/CPP.svg" width="45">
 <img src="./icons/Python-Dark.svg" width="45">
 <img src="./icons/TensorFlow-Dark.svg" width="45">
 <img src="./icons/PyTorch-Dark.svg" width="45">
 <img src="./icons/Java-Dark.svg" width="45">
-<img src="./icons/GraphQL-Dark.svg" width="45">
+<img src="./icons/C.svg" width="45">
+<img src="./icons/CPP.svg" width="45">
 <img src="./icons/Git.svg" width="45">
 <img src="./icons/Github-Dark.svg" width="45">
+<img src="./icons/GraphQL-Dark.svg" width="45">
+<img src="./icons/Docker.svg" width="45">
 <img src="./icons/Kubernetes.svg" width="45">
 <img src="./icons/OpenStack-Dark.svg" width="45">
 <img src="./icons/RabbitMQ-Dark.svg" width="45">
-<img src="./icons/Docker.svg" width="45">
 <img src="./icons/MongoDB.svg" width="45">
+<img src="./icons/VSCode-Dark.svg" width="45">
 <img src="./icons/Bash-Dark.svg" width="45">
 <img src="./icons/MySQL-Dark.svg" width="45">
 <img src="./icons/LaTeX-Dark.svg" width="45">
@@ -73,7 +74,6 @@ style="margin: -100px 0px -90px 0px">
 <img src="./icons/CSS.svg" width="45">
 <img src="./icons/JavaScript.svg" width="45">
 <img src="./icons/PHP-Dark.svg" width="45">
-<img src="./icons/VSCode-Dark.svg" width="45">
 </ul>
 
 </div>
