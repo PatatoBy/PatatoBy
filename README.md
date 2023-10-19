@@ -8,6 +8,7 @@
 <ul align="center">
 
 # Hi 👋, I'm Matteo
+<p style="font-size:2em;"> <b>Hi 👋, I'm Matteo </b> </p>
 
 ### 25 - Italy 🇮🇹
 
@@ -15,20 +16,19 @@
 </div>
 
 ##
-
+<br>
 <!-- Other infos -->
 <div>
 
-> 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
-
-> 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
-> 🔧 I'm working on a ***Search Engine*** class project
+- 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
+- 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
+- 🔧 I'm working on a ***Search Engine*** class project
 </div>
 
+<br><br>
 
 ##
 <br>
-
 <!-- Personal GitHub statistics -->
 <div>
 <ul align="center">
@@ -37,13 +37,14 @@
 </ul>
 
 <ul align="center", href="https://github.com/anuraghazra/github-readme-stats">
-<img height=130, src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBy&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5">
-<img height=130, src = "https://github-readme-stats.vercel.app/api?username=PatatoBy&show_icons=true&theme=dark">
+<img height=140, src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBy&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5">
+<img height=140, src = "https://github-readme-stats.vercel.app/api?username=PatatoBy&show_icons=true&theme=dark">
 </ul>
 </div>
+<br><br>
 
 ##
-
+<br>
 <!-- Code and Tools -->
 <div>
 <ul align="center">
@@ -77,9 +78,10 @@
 </ul>
 
 </div>
+<br><br>
 
 ##
-
+<br>
 <!-- MY SOCIAL NETWORKS -->
 <div>
 <ul align="center">
