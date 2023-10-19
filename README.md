@@ -21,7 +21,7 @@ style="margin: -100px 0px -90px 0px">
 
 - 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
 - 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
-- 🔧 I'm currently working on a [`***Search Engine***`](https://github.com/gabrielemarino-gm/Search-Engine-MIRCV) class project
+- 🔧 I'm currently working on a [***Search Engine***](https://github.com/gabrielemarino-gm/Search-Engine-MIRCV) class project
 </div>
 
 <br><br>
