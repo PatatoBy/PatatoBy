@@ -1,6 +1,6 @@
 <!-- TOP BANNER TO BE ADDED -->
 <div>
-<img align="center", src="./banners/HDivider.svg"
+<img align="center", src="./banners/HDividerG.png"
 style="margin: -100px 0px -90px 0px">
 </div>
 
@@ -93,7 +93,13 @@ style="margin: -100px 0px -90px 0px">
 <img href="" src="./icons/Discord.svg" width="35">
 </ul>
 </div>
+<br>
 
 <!-- BOTTOM BANNER TO BE ADDED -->
 <div>
+</div>
+
+<div>
+<img align="center", src="./banners/HDividerGR.png"
+style="margin: -100px 0px -90px 0px;">
 </div>
