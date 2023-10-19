@@ -8,7 +8,9 @@
 <ul align="center">
 
 # Hi 👋, I'm Matteo
-#### 25 - Italy 🇮🇹
+
+### 25 - Italy 🇮🇹
+
 </ul>
 </div>
 
@@ -17,9 +19,10 @@
 <!-- Other infos -->
 <div>
 
-- 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
-- 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
-- 🔧 I'm working on a ***Search Engine*** class project
+> 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
+
+> 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
+> 🔧 I'm working on a ***Search Engine*** class project
 </div>
 
 
