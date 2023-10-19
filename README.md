@@ -1,6 +1,6 @@
 <!-- TOP BANNER TO BE ADDED -->
 <div>
-
+<img align="center", src="./banners/HDivider.svg">
 </div>
 
 <!-- General informations -->
