@@ -1,10 +1,10 @@
-<!-- TOP BANNER TO BE ADDED -->
+<!-- TOP BANNER -->
 <div>
 <img align="center", src="./banners/HDividerG.png"
 style="margin: -100px 0px -90px 0px">
 </div>
 
-<!-- General informations -->
+<!-- GENERAL INFO -->
 <div>
 <ul align="center">
 
@@ -16,7 +16,7 @@ style="margin: -100px 0px -90px 0px">
 
 ##
 <br>
-<!-- Other infos -->
+<!-- OTHER INFO -->
 <div>
 
 - 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
@@ -28,7 +28,7 @@ style="margin: -100px 0px -90px 0px">
 
 ##
 <br>
-<!-- Personal GitHub statistics -->
+<!-- PERSONAL STATISTICS -->
 <div>
 <ul align="center">
 
@@ -44,7 +44,7 @@ style="margin: -100px 0px -90px 0px">
  
 ##
 <br>
-<!-- Code and Tools -->
+<!-- LANGS AND TOOLS -->
 <div>
 <ul align="center">
 
@@ -95,9 +95,7 @@ style="margin: -100px 0px -90px 0px">
 </div>
 <br>
 
-<!-- BOTTOM BANNER TO BE ADDED -->
-<div>
-</div>
+<!-- BOTTOM BANNER -->
 
 <div>
 <img align="center", src="./banners/HDividerGR.png"
