@@ -5,10 +5,10 @@ style="margin: -100px 0px -90px 0px">
 </div>
 
 <!-- GENERAL INFO -->
-<div>
+<div align="center">
 
   # Hi 👋, I'm Matteo
-  #### 25 - Italy 🇮🇹
+  ## 25 - Italy 🇮🇹
 </div>
 
 
@@ -20,7 +20,7 @@ style="margin: -100px 0px -90px 0px">
 - 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
 - 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
 - 🔧 I'm currently working on a [***Search Engine***](https://github.com/gabrielemarino-gm/Search-Engine-MIRCV) class project
-</div>
+</div><p style="font-weight: bold; font-size: 25px;">
 
 <br><br>
 
@@ -28,10 +28,10 @@ style="margin: -100px 0px -90px 0px">
 <br>
 <!-- PERSONAL STATISTICS -->
 <div>
-<p align="center">
+< align="center">
 
 ***My stats***
-</p>
+</div>
 
 <p align="center", href="https://github.com/anuraghazra/github-readme-stats">
 <img height=140, src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBy&layout=compact&theme=dark&size_weight=0.2&count_weight=1">
