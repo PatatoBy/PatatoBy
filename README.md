@@ -5,9 +5,10 @@ style="margin: -100px 0px -90px 0px">
 </div>
 
 <!-- GENERAL INFO -->
-<div style="text-align: center;">
-  <p style="font-weight: bold; font-size: 32px;">Hi 👋, I'm Matteo</p>
-  <p style="font-weight: bold; font-size: 25px;">25 - Italy 🇮🇹</p>
+<div>
+
+  # Hi 👋, I'm Matteo
+  #### 25 - Italy 🇮🇹
 </div>
 
 
@@ -84,6 +85,7 @@ style="margin: -100px 0px -90px 0px">
 
 ***You can find me there***
 </p>
+<br>
 <p align="center">
 <img href="" src="./icons/LinkedIn.svg" width="35">
 <img href="" src="./icons/Instagram.svg" width="35">
