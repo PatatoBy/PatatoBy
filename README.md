@@ -5,14 +5,11 @@ style="margin: -100px 0px -90px 0px">
 </div>
 
 <!-- GENERAL INFO -->
-<div>
-<p align="center">
-
-# Hi 👋, I'm Matteo
-### 25 - Italy 🇮🇹
-
-</p>
+<div style="text-align: center;">
+  <p style="font-weight: bold; font-size: 32px;">Hi 👋, I'm Matteo</p>
+  <p style="font-weight: bold; font-size: 25px;">25 - Italy 🇮🇹</p>
 </div>
+
 
 ##
 <br>
@@ -48,7 +45,7 @@ style="margin: -100px 0px -90px 0px">
 <div>
 <p align="center">
 
-***What i have learnt 'till now...***  
+***What i have learnt 'till now...***
 </p>
 
 <p align="center">
