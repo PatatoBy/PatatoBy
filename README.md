@@ -6,9 +6,8 @@
 
 <!-- GENERAL INFO -->
 <div align="center">
-
-  # Hi 👋, I'm Matteo
-  ### 25 - Italy 🇮🇹
+  <h1>Hi 👋, I'm Matteo</h1>
+  <h3> 25 - Italy 🇮🇹</h3>
 </div>
 
 
