@@ -7,7 +7,7 @@
 <!-- GENERAL INFO -->
 <div align="center">
   <h1>Hi 👋, I'm Matteo</h1>
-  <h3> 25 - Italy 🇮🇹</h3>
+  <h3> 26 - Italy 🇮🇹</h3>
 </div>
 
 
@@ -17,9 +17,9 @@
 <!-- OTHER INFO -->
 <div>
 
-  - 🔭 I'm currently enrolled in the Master's degree course in ***Artificial Intelligence and Data Engineering*** at ***University of Pisa***
-  - 🌱 I'm attending ***Information Retrieval*** and ***Process Mining*** classes
-  - 🔧 I'm currently working on a [***Search Engine***](https://github.com/gabrielemarino-gm/Search-Engine-MIRCV) class project
+  - 🔭 I have a Master's degree in ***Artificial Intelligence and Data Engineering*** at the ***University of Pisa***
+  - 🌱 I'm interested in ***Information Retrieval***, ***Generative AI*** & ***Cloud Computing***
+  - 🔧 I'm currently chilling...
 </div>
 
 <br>
@@ -54,28 +54,34 @@
   </div>
 
   <p align="center">
+    <!-- AI -->
     <img src="./icons/Python-Dark.svg" width="45">
     <img src="./icons/TensorFlow-Dark.svg" width="45">
     <img src="./icons/PyTorch-Dark.svg" width="45">
+    <br>
+    <!-- PROG LANG -->
     <img src="./icons/Java-Dark.svg" width="45">
     <img src="./icons/C.svg" width="45">
     <img src="./icons/CPP.svg" width="45">
-    <img src="./icons/Git.svg" width="45">
-    <img src="./icons/Github-Dark.svg" width="45">
+    <img src="./icons/JavaScript.svg" width="45">
+    <img src="./icons/Bash-Dark.svg" width="45">
+    <br>
+    <!-- CLOUD -->
     <img src="./icons/GraphQL-Dark.svg" width="45">
     <img src="./icons/Docker.svg" width="45">
     <img src="./icons/Kubernetes.svg" width="45">
-    <img src="./icons/OpenStack-Dark.svg" width="45">
     <img src="./icons/RabbitMQ-Dark.svg" width="45">
     <img src="./icons/MongoDB.svg" width="45">
-    <img src="./icons/VSCode-Dark.svg" width="45">
-    <img src="./icons/Bash-Dark.svg" width="45">
     <img src="./icons/MySQL-Dark.svg" width="45">
+    <br>
+    <!-- UTILS -->
+    <img src="./icons/Git.svg" width="45">
     <img src="./icons/LaTeX-Dark.svg" width="45">
-    <img src="./icons/HTML.svg" width="45">
-    <img src="./icons/CSS.svg" width="45">
-    <img src="./icons/JavaScript.svg" width="45">
-    <img src="./icons/PHP-Dark.svg" width="45">
+    <!-- <img src="./icons/OpenStack-Dark.svg" width="45"> -->
+    <!-- <img src="./icons/VSCode-Dark.svg" width="45"> -->
+    <!-- <img src="./icons/HTML.svg" width="45"> -->
+    <!-- <img src="./icons/CSS.svg" width="45"> -->
+    <!-- <img src="./icons/PHP-Dark.svg" width="45"> -->
   </p>
 
 </div>
@@ -93,9 +99,9 @@
   <br>
 
   <p align="center">
-  <img href="" src="./icons/LinkedIn.svg" width="35">
-  <img href="" src="./icons/Instagram.svg" width="35">
-  <img href="" src="./icons/Discord.svg" width="35">
+  <img href="https://it.linkedin.com/in/matteo-pasqualetti-3319b4278?trk=people-guest_people_search-card" src="./icons/LinkedIn.svg" width="35">
+  <img href="https://www.instagram.com/cyanoboy_/" src="./icons/Instagram.svg" width="35">
+  <!-- <img href="" src="./icons/Discord.svg" width="35"> -->
   </p>
 </div>
 <br>
