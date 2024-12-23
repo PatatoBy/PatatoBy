@@ -37,7 +37,7 @@
 
   <p align="center", href="https://github.com/anuraghazra/github-readme-stats">
     <img height=140, src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBy&layout=compact&theme=dark&size_weight=0.2&count_weight=1">
-    <img height=140, src = "https://github-readme-stats.vercel.app/api?username=PatatoBy&show_icons=true&theme=dark">
+    <!-- <img height=140, src = "https://github-readme-stats.vercel.app/api?username=PatatoBy&show_icons=true&theme=dark"> -->
   </p>
 </div>
 
@@ -99,9 +99,9 @@
   <br>
 
   <p align="center">
-  <img href="https://it.linkedin.com/in/matteo-pasqualetti-3319b4278?trk=people-guest_people_search-card" src="./icons/LinkedIn.svg" width="35">
+  <img href="" src="./icons/LinkedIn.svg" width="35">
   <img href="https://www.instagram.com/cyanoboy_/" src="./icons/Instagram.svg" width="35">
-  <!-- <img href="" src="./icons/Discord.svg" width="35"> -->
+  <img href="" src="./icons/Discord.svg" width="35">
   </p>
 </div>
 <br>
