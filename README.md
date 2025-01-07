@@ -19,7 +19,7 @@
 
   - 🔭 I have a Master's degree in ***Artificial Intelligence and Data Engineering*** at the ***University of Pisa***
   - 🌱 I'm interested in ***Information Retrieval***, ***Generative AI*** & ***Cloud Computing***
-  - 🔧 I'm currently chilling...
+  - 🔧 I'm currently open to work...
 </div>
 
 <br>
